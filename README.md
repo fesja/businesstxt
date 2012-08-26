@@ -8,7 +8,8 @@ Business.txt is a file that local businesses upload to their website with their 
 * [How this works](#how-this-works)
 * [For local businesses](#for-local-business)
 * [For websites](#for-websites)
-* [Example of a business.txt file](#example-of-a-businesstxt-file)
+* [Why current solutions don't work?](#why-current-solutions-dont-work)
+* [Examples](#examples)
 * [Documentation](#documentation)
 * [Help us make it better](#help-us-make-it-better)
 
@@ -46,8 +47,24 @@ For websites
 * Any question? Read the [FAQ](https://github.com/fesja/businesstxt/blob/master/faq.md)
 
 
-Examples of a business.txt file
-------------------------------
+Why current solutions don't work?
+-----------------------------------
+
+There are three options that local businesses currently have to update the latest info:
+
+1. Some local businesses go to every website to update their info. It's too time consuming and there are literally thousands of websites with their information. On many of them the information can't be edited.
+
+2. Other local businesses pay for a service like http://www.yext.com that can cost more than $500 a year. They update the information on the main websites, but there are literally thousands of websites with their information.
+
+3. Other local businesses may think on adding to their website some metadata (using http://schema.org/). The problem is that it's too complicated for a non-developer.
+
+On the other side, right now websites have to convince their users or local businesses to update the latest info. It's too time consuming. And an outdated info can ruin someone experience with the website or app. 
+
+There isn't a simple, cheap and worldwide solution to get the latest information of local businesses. There should be one! Website providers need it. Local businesses need it. Let's do it ;)
+
+
+Examples
+--------
 
 ```
 Name: RJ Grunts
