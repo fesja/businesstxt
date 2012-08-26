@@ -86,6 +86,13 @@ Documentation
 
 Learn about [all the options of a business.txt file](https://github.com/fesja/businesstxt/blob/master/structure.md).
 
+Websites supporting business.txt
+--------------------------------
+
+* [TouristEye](http://www.touristeye.com)
+
+Send a pull request to add your website if you are supporting or plan to support business.txt in the near future.
+
 
 Help us make it better
 ----------------------
