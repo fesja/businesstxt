@@ -77,9 +77,9 @@ TouristEye: http://www.touristeye.com/RJ-Grunts-Chicago-p-2127
 
 More examples:
 
-* [Basic info](https://github.com/fesja/businesstxt/blob/master/examples/basic_info.txt)
-* [Extra info](https://github.com/fesja/businesstxt/blob/master/examples/extra_info.txt)
-* [Several locations](https://github.com/fesja/businesstxt/blob/master/examples/several_locations.txt)
+* [Basic info](https://raw.github.com/fesja/businesstxt/master/examples/basic_info.txt)
+* [Extra info](https://raw.github.com/fesja/businesstxt/master/examples/extra_info.txt)
+* [Several locations](https://raw.github.com/fesja/businesstxt/master/examples/several_locations.txt)
 
 Documentation
 -------------
