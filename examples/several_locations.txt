@@ -1,0 +1,27 @@
+Name: Starbucks
+Category: Coffee
+Website: http://www.starbucks.com/
+Price: $$
+Schedule: Mon-Fri 7am-8pm, Sat-Sun 8am-7pm
+
+Street: Frnt A, 291 Broadway
+Zip: 10007
+City: New York
+State: New York
+Country: United States
+Coordinates: 40.7147, -74.0060
+
+Street: 241, Canal St
+Zip: 10013
+City: New York
+State: New York
+Country: United States
+Coordinates: 40.7182, -74.0001
+
+Street: 725 5th Ave # 2
+Zip: 10022
+City: New York
+State: New York
+Country: United States
+Coordinates: 40.76245, -73.97419
+Schedule: Mon-Fri 7am-8pm, Sat-Sun 8am-9pm

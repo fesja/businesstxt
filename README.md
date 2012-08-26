@@ -28,7 +28,7 @@ How this works
 For local businesses
 --------------------
 
-* Add a business.txt file to your website with all your business info.
+* Add a business.txt file to the root of your website with all your business info.
 * Whenever you change it, it will be updated on all the websites that support the business.txt standard.
 * It’s really easy to add.
 * It’s free!
@@ -46,7 +46,7 @@ For websites
 * Any question? Read the [FAQ](https://github.com/fesja/businesstxt/blob/master/faq.md)
 
 
-Example of a business.txt file
+Examples of a business.txt file
 ------------------------------
 
 ```txt
@@ -74,6 +74,12 @@ Urbanspoon: http://www.urbanspoon.com/r/2/15875/restaurant/Lincoln-Park/R-J-Grun
 Foodspotting: http://www.foodspotting.com/places/186358-r-j-grunts-chicago
 TouristEye: http://www.touristeye.com/RJ-Grunts-Chicago-p-2127
 ```
+
+More examples:
+
+* [Basic info](https://github.com/fesja/businesstxt/blob/master/examples/basic_info.txt)
+* [Extra info](https://github.com/fesja/businesstxt/blob/master/examples/extra_info.txt)
+* [Several locations](https://github.com/fesja/businesstxt/blob/master/examples/several_locations.txt)
 
 Documentation
 -------------

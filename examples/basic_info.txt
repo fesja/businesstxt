@@ -1,0 +1,11 @@
+Name: RJ Grunts
+Category: American Restaurant
+Street: 2056 North Lincoln Park W (at Dickens Ave.)
+Zip: 60614
+City: Chicago
+State: Illinois
+Country: United States
+Coordinates: 41.92012, -87.63645
+Phone: (1) 773-929-5363
+Schedule: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
+Website: http://www.rjgruntschicago.com/
