@@ -51,7 +51,7 @@ Examples of a business.txt file
 
 ```
 Name: RJ Grunts
-Category: American Restaurant
+Categories: American Restaurant, Bar
 Street: 2056 North Lincoln Park W (at Dickens Ave.)
 Zip: 60614
 City: Chicago
@@ -59,9 +59,9 @@ State: Illinois
 Country: United States
 Coordinates: 41.92012, -87.63645
 Phone: (1) 773-929-5363
-Price: $$
+Price range: $$
 Price description: $9.95 burger, $11.95 salad and soup bar. You can eat for $10-20.
-Schedule: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
+Open: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
 Short description: Great place to have a great burger and salad bar
 
 Website: http://www.rjgruntschicago.com/

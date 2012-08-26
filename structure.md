@@ -14,12 +14,12 @@ Name of the business.
 Name: RJ Grunts
 ```
 
-**Category**
+**Categories**
 
-Category of the business. There isn't yet a list of categories. The business owner decides. 
+Categories of the business. There isn't yet a list of categories. The business owner decides. 
 
 ```
-Category: American Restaurant
+Categories: American Restaurant, Bar
 ```
 
 **Location**
@@ -61,9 +61,9 @@ Email of the business
 Email: info@example.com
 ```
 
-**Price**
+**Prices**
 
-What's the price category of the business. There are 4 categories:
+What's the price range of the business. There are 4 ranges:
 
 * $: Cheap
 * $$: Normal
@@ -73,7 +73,7 @@ What's the price category of the business. There are 4 categories:
 This is mostly used by restaurants, bars and accommodation. Business owners should be honest because depending on the price category they will be targeting different user profiles.
 
 ```
-Price: $$
+Price range: $$
 ```
 
 Businesses can add specific information about their prices. There is no limit on the length.
@@ -90,20 +90,20 @@ Link to see the menu of the restaurant
 Menu: http://www.leye.com/files/Menus/Grunts%20Menu.pdf
 ```
 
-**Schedule**
+**Open**
 
-What's the schedule of the business. Let's see several examples.
+What are the opening hours of the business. Let's see several examples.
 
 * If it opens everyday from 10 in the morning to 6 in the evening:
 
 	```
-	Schedule: Mon-Sun 10am-6pm
+	Open: Mon-Sun 10am-6pm
 	```
 
 * If it opens on different hours each day:
 
 	```
-	Schedule: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
+	Open: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
 	```
 
 You can read about [day abbreviations](#day-abbreviations).
@@ -125,6 +125,23 @@ Which days the business is closed. Let's see several examples.
 	```
 
 You can read about [month abbreviations](#month-abbreviations).
+
+
+**Reservations**
+
+If the local businesses takes reservations.
+
+```
+Reservations: Yes
+```
+
+**Payment**
+
+Which types of payments are accepted.
+
+```
+Payment: Cash, credit card
+```
 
 **Short description**
 
@@ -174,10 +191,10 @@ That's a good question. The standard support the option to have several spots on
 
 ```
 Name: Starbucks
-Category: Coffee
+Categories: Coffee
 Website: http://www.starbucks.com/
 Price: $$
-Schedule: Mon-Fri 7am-8pm, Sat-Sun 8am-7pm
+Open: Mon-Fri 7am-8pm, Sat-Sun 8am-7pm
 
 Street: Frnt A, 291 Broadway
 Zip: 10007
@@ -199,7 +216,7 @@ City: New York
 State: New York
 Country: United States
 Coordinates: 40.76245, -73.97419
-Schedule: Mon-Fri 7am-8pm, Sat-Sun 8am-9pm
+Open: Mon-Fri 7am-8pm, Sat-Sun 8am-9pm
 ```
 
 Day abbreviations
