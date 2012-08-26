@@ -35,7 +35,7 @@ Country: United States
 Coordinates: 41.92012, -87.63645
 ```
 
-You can read about [having several locations](#-several-locations).
+You can read about [having several locations](#several-locations).
 
 **Phone**
 
@@ -106,7 +106,7 @@ What's the schedule of the business. Let's see several examples.
 	Schedule: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
 	```
 
-You can read about [day abbreviations](#-day-abbreviations).
+You can read about [day abbreviations](#day-abbreviations).
 
 **Closed**
 
@@ -124,7 +124,7 @@ Which days the business is closed. Let's see several examples.
 	Closed: Jan 1st, Jul 4th 15th-25th, Dec 24th 25th 31st
 	```
 
-You can read about [month abbreviations](#-month-abbreviations).
+You can read about [month abbreviations](#month-abbreviations).
 
 **Short description**
 

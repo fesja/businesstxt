@@ -1,8 +1,8 @@
 Frequently Asked Questions
 ==========================
 
-* [For local businesses](#-for-local-business)
-* [For websites](#-for-websites)
+* [For local businesses](#for-local-business)
+* [For websites](#for-websites)
 
 
 For local businesses

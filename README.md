@@ -5,12 +5,12 @@ Business.txt is a file that local businesses upload to their website with their 
 
 **Sections**
 
-* [How this works](#-how-this-works)
-* [For local businesses](#-for-local-business)
-* [For websites](#-for-websites)
-* [Example of a business.txt file](#-example-of-a-businesstxt-file)
-* [Documentation](#-documentation)
-* [Help us make it better](#-help-us-make-it-better)
+* [How this works](#how-this-works)
+* [For local businesses](#for-local-business)
+* [For websites](#for-websites)
+* [Example of a business.txt file](#example-of-a-businesstxt-file)
+* [Documentation](#documentation)
+* [Help us make it better](#help-us-make-it-better)
 
 
 How this works
