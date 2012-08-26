@@ -49,7 +49,7 @@ For websites
 Examples of a business.txt file
 ------------------------------
 
-```txt
+```
 Name: RJ Grunts
 Category: American Restaurant
 Street: 2056 North Lincoln Park W (at Dickens Ave.)
