@@ -11,6 +11,7 @@ Business.txt is a file that local businesses upload to their website with their 
 * [Why current solutions don't work?](#why-current-solutions-dont-work)
 * [Examples](#examples)
 * [Documentation](#documentation)
+* [Next steps](#next-steps)
 * [Help us make it better](#help-us-make-it-better)
 
 
@@ -109,6 +110,14 @@ Websites supporting business.txt
 * [TouristEye](http://www.touristeye.com)
 
 Send a pull request to add your website if you are supporting or plan to support business.txt in the near future.
+
+Next steps
+----------
+
+1. Convince websites to join
+2. Discuss and improve the standard
+3. Build a website and some plugins for Wordpress and other CMSs to create a business.txt file
+4. Tell local businesses to join.
 
 
 Help us make it better
