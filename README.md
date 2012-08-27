@@ -14,6 +14,10 @@ Business.txt is a file that local businesses upload to their website with their 
 * [Next steps](#next-steps)
 * [Help us make it better](#help-us-make-it-better)
 
+**Discussions**
+
+* [Should we use a txt file, json, microformat or hCard?](https://github.com/fesja/businesstxt/wiki/Which-format)
+
 
 How this works
 --------------
