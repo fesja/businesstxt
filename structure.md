@@ -35,6 +35,8 @@ Country: United States
 Coordinates: 41.92012, -87.63645
 ```
 
+Outside the US you may use "Postal Code:" instead of "Zip:"
+
 You can read about [having several locations](#several-locations).
 
 **Phone**
