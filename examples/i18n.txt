@@ -1,0 +1,7 @@
+Name: The Prado Museum
+[ES] Name: El museo del Prado
+[FR] Name: Le musée du Prado
+
+Short description: The Prado Museum is the main Spanish national art museum, located in central Madrid.
+[ES] Short description: El Museo del Prado es el principal museo de arte español, que se encuentra en el centro de Madrid.
+[FR] Short description: Le musée du Prado est le principal musée d'art national espagnol, situé dans le centre de Madrid.

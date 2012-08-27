@@ -108,7 +108,14 @@ What are the opening hours of the business. Let's see several examples.
 	Open: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
 	```
 
+The hours can also be written in a 24 hour time format. For example, the last example would be:
+
+```
+Open: Mon-Fri 11.30-0, Sat 10-0, Sun 10-21
+```
+
 You can read about [day abbreviations](#day-abbreviations).
+
 
 **Kitchen hours**
 
@@ -116,6 +123,12 @@ The kitchen hours may be different from the opening hours.
 
 ```
 Kitchen hours: Mon-Sun 12am-3pm 6pm-9pm
+```
+
+The hours can also be written in a 24 hour time format. For example, the example would be:
+
+```
+Kitchen hours: Mon-Sun 12-15 18-21
 ```
 
 You can read about [day abbreviations](#day-abbreviations).
@@ -149,10 +162,10 @@ Reservations: Yes
 
 **Payment**
 
-Which types of payments are accepted.
+Which types of payments are accepted separated by commas. It's very flexible. Some of the options yoy may consider: Cash`, `Credit Card`, `Visa`, `Mastercard`, `Amex`
 
 ```
-Payment: Cash, credit card
+Payment: Cash, Visa, Mastercard
 ```
 
 **Short description**
@@ -192,11 +205,31 @@ Foursquare: https://foursquare.com/v/rj-grunts/42153000f964a5208c1f1fe3
 Yelp: http://www.yelp.com/biz/rj-grunts-chicago
 ```
 
+Internationalization
+--------------------
+
+There should be a way for businesses to add some fields in other languages. The following fields support internationalization:
+
+* Name
+* Price description
+* Short description
+
+An example:
+
+```
+Name: The Prado Museum
+[ES] Name: El museo del Prado
+[FR] Name: Le musée du Prado
+
+Short description: The Prado Museum is the main Spanish national art museum, located in central Madrid.
+[ES] Short description: El Museo del Prado es el principal museo de arte español, que se encuentra en el centro de Madrid.
+[FR] Short description: Le musée du Prado est le principal musée d'art national espagnol, situé dans le centre de Madrid.
+```
 
 Several locations
 -----------------
 
-That's a good question. The standard support the option to have several spots on the same business.txt file. You can have different data for each spot.
+Business.txt supports also the option to have several spots on the same business.txt file. You can have different data for each spot.
 
 * Start with the common data
 * Add a location block for each spot starting with the `Street` field adding any extra field of the business.txt standard. You can override any field of the common data. So for example, you can have a common schedule in all spots except in one that it's different.
