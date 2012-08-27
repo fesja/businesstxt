@@ -90,7 +90,7 @@ Link to see the menu of the restaurant
 Menu: http://www.leye.com/files/Menus/Grunts%20Menu.pdf
 ```
 
-**Open**
+**Opening hours**
 
 What are the opening hours of the business. Let's see several examples.
 
@@ -105,6 +105,16 @@ What are the opening hours of the business. Let's see several examples.
 	```
 	Open: Mon-Fri 11.30am-12am, Sat 10am-12am, Sun 10am-9pm
 	```
+
+You can read about [day abbreviations](#day-abbreviations).
+
+**Kitchen hours**
+
+The kitchen hours may be different from the opening hours.
+
+```
+Kitchen hours: Mon-Sun 12am-3pm 6pm-9pm
+```
 
 You can read about [day abbreviations](#day-abbreviations).
 
