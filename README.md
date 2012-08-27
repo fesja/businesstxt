@@ -104,12 +104,20 @@ Documentation
 
 Learn about [all the options of a business.txt file](https://github.com/fesja/businesstxt/blob/master/structure.md).
 
-Websites supporting business.txt
+Supporting business.txt
 --------------------------------
+
+**Local businesses**
+
+* [Pierlis](http://pierlis.com/business.txt)
+
+Send me an email to javier at touristeye.com
+
+**Websites**
 
 * [TouristEye](http://www.touristeye.com)
 
-Send a pull request to add your website if you are supporting or plan to support business.txt in the near future.
+Send me an email to javier at touristeye.com or a pull request to add your website if you are supporting or plan to support business.txt in the near future.
 
 Next steps
 ----------
