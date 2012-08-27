@@ -39,3 +39,7 @@ The information comes from the owner, so it's in his/her interest to be 100% cor
 **How do I know that a webpage has updated their info?**
 
 You can ping each website for changes or we can build something like http://pingomatic.com/ for this.
+
+**Why the file is a txt instead of a JSON file?**
+
+We want to be a human friendly file. If we had a JSON or XML file, it would be too complicated for a non-developer. Also, we are following the same pattern as the robots.txt file.
