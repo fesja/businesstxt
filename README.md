@@ -135,4 +135,6 @@ Next steps
 Help us make it better
 ----------------------
 
+We can discuss the standard proposal in this [google group](https://groups.google.com/forum/#!forum/businesstxt)
+
 Please tell us how we can make this soon-to-be standard better. If you have a specific feature request or if you found a bug, please [open a support ticket](https://github.com/fesja/businesstxt/issues). Also, feel free to fork these docs and send a pull request with improvements!
